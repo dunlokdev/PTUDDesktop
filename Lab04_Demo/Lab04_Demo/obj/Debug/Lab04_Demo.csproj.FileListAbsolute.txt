@@ -9,3 +9,4 @@ D:\Workspace\DEV\winform\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.csproj.CoreC
 D:\Workspace\DEV\winform\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.exe
 D:\Workspace\DEV\winform\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.pdb
 D:\Workspace\DEV\winform\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.frmMain.resources
+D:\Workspace\DEV\winform\Lab04_Demo\Lab04_Demo\bin\Debug\dssv.txt

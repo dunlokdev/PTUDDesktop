@@ -54,7 +54,7 @@
             this.lblMSSV = new System.Windows.Forms.Label();
             this.pbHinh = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.listView1 = new System.Windows.Forms.ListView();
+            this.lvSinhVien = new System.Windows.Forms.ListView();
             this.colMSSV = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.colHoTen = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.colGioiTinh = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -107,6 +107,7 @@
             // 
             this.btnThoat.AutoSize = true;
             this.btnThoat.BackColor = System.Drawing.Color.Firebrick;
+            this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.SystemColors.Control;
             this.btnThoat.Location = new System.Drawing.Point(383, 197);
@@ -127,11 +128,13 @@
             this.btnLuu.TabIndex = 11;
             this.btnLuu.Text = "Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnMacDinh
             // 
             this.btnMacDinh.AutoSize = true;
             this.btnMacDinh.BackColor = System.Drawing.SystemColors.Highlight;
+            this.btnMacDinh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMacDinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMacDinh.ForeColor = System.Drawing.SystemColors.Control;
             this.btnMacDinh.Location = new System.Drawing.Point(155, 197);
@@ -334,7 +337,7 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.listView1);
+            this.groupBox2.Controls.Add(this.lvSinhVien);
             this.groupBox2.Location = new System.Drawing.Point(12, 258);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(956, 320);
@@ -342,10 +345,9 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Danh sách sinh viên";
             // 
-            // listView1
+            // lvSinhVien
             // 
-            this.listView1.CheckBoxes = true;
-            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.lvSinhVien.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.colMSSV,
             this.colHoTen,
             this.colGioiTinh,
@@ -355,15 +357,15 @@
             this.colEmail,
             this.colDiaChi,
             this.colHinh});
-            this.listView1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.listView1.GridLines = true;
-            this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(3, 18);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(950, 299);
-            this.listView1.TabIndex = 0;
-            this.listView1.UseCompatibleStateImageBehavior = false;
-            this.listView1.View = System.Windows.Forms.View.Details;
+            this.lvSinhVien.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lvSinhVien.GridLines = true;
+            this.lvSinhVien.HideSelection = false;
+            this.lvSinhVien.Location = new System.Drawing.Point(3, 18);
+            this.lvSinhVien.Name = "lvSinhVien";
+            this.lvSinhVien.Size = new System.Drawing.Size(950, 299);
+            this.lvSinhVien.TabIndex = 0;
+            this.lvSinhVien.UseCompatibleStateImageBehavior = false;
+            this.lvSinhVien.View = System.Windows.Forms.View.Details;
             // 
             // colMSSV
             // 
@@ -424,6 +426,7 @@
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản lý thông tin sinh viên CNTT";
+            this.Load += new System.EventHandler(this.frmMain_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbHinh)).EndInit();
@@ -457,7 +460,7 @@
         private System.Windows.Forms.RadioButton rdNam;
         private System.Windows.Forms.DateTimePicker dtpNgaySinh;
         private System.Windows.Forms.MaskedTextBox mtbSDT;
-        private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.ListView lvSinhVien;
         private System.Windows.Forms.ColumnHeader colMSSV;
         private System.Windows.Forms.ColumnHeader colHoTen;
         private System.Windows.Forms.ColumnHeader colGioiTinh;

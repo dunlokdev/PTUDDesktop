@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Lab04_Demo
 {
@@ -35,5 +36,15 @@ namespace Lab04_Demo
         }
 
         // Methods
+
+        public static void ShowExit()
+        {
+            var dr = MessageBox.Show("Lộc thích Y.. phải không, chọn có để thoát", "Lộc thích Y", MessageBoxButtons.YesNo);
+
+            if (dr == DialogResult.Yes)//Application.Exit();
+            {
+                MessageBox.Show("Lộc thừa nhận thích Y.. rồi haha", "Lộc thích Y");
+            }
+        }
     }
 }
