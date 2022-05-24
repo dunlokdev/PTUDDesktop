@@ -1,0 +1,12 @@
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\bin\Debug\LabelGUI.exe.config
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\bin\Debug\LabelGUI.exe
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\bin\Debug\LabelGUI.pdb
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.csproj.AssemblyReference.cache
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.Form1.resources
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.Properties.Resources.resources
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.csproj.GenerateResource.cache
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.csproj.CoreCompileInputs.cache
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.exe
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.pdb
+D:\Workspace\DEV\c#\LabelGUI\LabelGUI\obj\Debug\LabelGUI.Form2.resources

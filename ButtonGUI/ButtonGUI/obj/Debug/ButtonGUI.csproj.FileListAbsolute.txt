@@ -1,0 +1,11 @@
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\bin\Debug\ButtonGUI.exe.config
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\bin\Debug\ButtonGUI.exe
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\bin\Debug\ButtonGUI.pdb
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.csproj.AssemblyReference.cache
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.FormMain.resources
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.Properties.Resources.resources
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.csproj.GenerateResource.cache
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.csproj.CoreCompileInputs.cache
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.exe
+D:\Workspace\DEV\c#\ButtonGUI\ButtonGUI\obj\Debug\ButtonGUI.pdb

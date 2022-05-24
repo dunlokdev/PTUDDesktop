@@ -121,7 +121,10 @@
             // btnLuu
             // 
             this.btnLuu.AutoSize = true;
+            this.btnLuu.FlatAppearance.BorderColor = System.Drawing.Color.GhostWhite;
+            this.btnLuu.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnLuu.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLuu.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnLuu.Location = new System.Drawing.Point(270, 197);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(95, 37);
