@@ -1,0 +1,11 @@
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\bin\Debug\Lab03_DL.exe.config
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\bin\Debug\Lab03_DL.exe
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\bin\Debug\Lab03_DL.pdb
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.csproj.AssemblyReference.cache
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.Properties.Resources.resources
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.csproj.GenerateResource.cache
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.csproj.CoreCompileInputs.cache
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.exe
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.pdb
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.Form1.resources
