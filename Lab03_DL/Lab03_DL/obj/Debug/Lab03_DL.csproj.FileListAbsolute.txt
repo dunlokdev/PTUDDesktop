@@ -8,4 +8,5 @@ D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.csproj.GenerateRes
 D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.csproj.CoreCompileInputs.cache
 D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.exe
 D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.pdb
-D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.Form1.resources
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\obj\Debug\Lab03_DL.frmSinhVien.resources
+D:\Workspace\DEV\winform\Lab03_DL\Lab03_DL\bin\Debug\data.txt

@@ -1,0 +1,10 @@
+﻿2014468*Nguyễn Thành Long*4/3/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*1*Mạng máy tính, Công nghệ phần mềm		
+2012323*Nguyễn Thị Huế*5/10/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*0*Mạng máy tính, Khoa học máy tính*		
+2011402*Dương Mỹ Lộc*08/10/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*1*Trí tuệ nhân tạo, Công nghệ phần mềm*		
+2012345*Trần Thị Ngọc Ánh Ánh*10/07/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*0*Hệ thống thông tin, Công nghệ phần mềm*
+2012356*Nguyễn Việt Hoàng*16/03/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*0*Hệ thống thông tin, Khoa học máy tính		
+2017777*Trần Quốc Toản*18/01/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*1*Mạng máy tính, Công nghệ phần mềm, Tin học ứng dụng*
+2019999*Lê Lý Lan Hương*07/03/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*0*Tin học ứng dụng, Khoa học máy tính*		
+2018888*Nguyễn Trần Bảo Trâm*28/07/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*0*Mạng máy tính, Khoa học máy tính*		
+2011111*Phạm Thuỷ Nguyên*11/2/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*0*Khoá học máy tính, Tin học ứng dụng*		
+2012222*Phạm Đức Hậu*5/10/2002*01 Phù Đổng Thiên Vương, P8, Đà Lạt*CTK44*D:\Images\*1*Tin học ứng dụng, Khoa học máy tính, Hệ thống thông tin
