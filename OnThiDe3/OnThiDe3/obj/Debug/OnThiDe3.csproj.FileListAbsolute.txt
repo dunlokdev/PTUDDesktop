@@ -1,0 +1,11 @@
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\bin\Debug\OnThiDe3.exe.config
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\bin\Debug\OnThiDe3.exe
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\bin\Debug\OnThiDe3.pdb
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.csproj.AssemblyReference.cache
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.frmQuanLyBanHang.resources
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.Properties.Resources.resources
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.csproj.GenerateResource.cache
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.csproj.CoreCompileInputs.cache
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.exe
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.pdb
+D:\Workspace\DEV\winform\OnThiDe3\OnThiDe3\obj\Debug\OnThiDe3.frnThemMH.resources
